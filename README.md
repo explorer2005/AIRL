@@ -1,3 +1,10 @@
+Q1
+
+Run the ll cells from start 
+
+<img width="698" height="797" alt="image" src="https://github.com/user-attachments/assets/fff3f1b7-415b-48c6-9076-9d560b36a567" />
+<img width="686" height="470" alt="training" src="https://github.com/user-attachments/assets/cc4aa8b8-865b-48bd-aadf-8a78e018fe9e" />
+
 Q2
 
  Deep Learning Lab — Q2: Text-Driven Image Segmentation with SAM 2
